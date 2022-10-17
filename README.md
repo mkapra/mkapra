@@ -17,4 +17,4 @@
 
 # Most used languages
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkapra&hide_border=true&layout=compact&card_width=400&count_private=true&hide=TeX)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkapra&hide_border=true&layout=compact&card_width=400&count_private=true&exclude_repo=latex-docker)
